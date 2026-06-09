@@ -1,2 +1,11 @@
 detail-closeup.webp
 carwash-exterior.png
+MrDetail1.png
+MrDetail2.png
+MrDetail3.png
+MrDetail4.png
+MrDetail5.png
+MrDetail6.png
+MrDetail7.png
+MrDetail8.png
+MrDetail9.png
