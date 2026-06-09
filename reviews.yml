@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────────
+#  Mr Detail Car Wash — Reviews
+#  To add a review: copy one block, paste below,
+#  fill in name / stars (1-5) / text.
+# ─────────────────────────────────────────────
+
+- name: "Maria T."
+  stars: 5
+  text: "Such a great establishment for a thorough and quick car wash! Ricardo is the manager and he was very kind — listened to my needs and gave tips without any pressure. My car came out beautifully. You can tell the whole team pays attention to detail. Pricing is very fair and affordable."
+
+- name: "James R."
+  stars: 5
+  text: "No doubt they're great with the exterior, but I was really surprised with the interior cleaning too. And for a very good price. Highly recommend."
+
+- name: "Denise M."
+  stars: 5
+  text: "Great place for a wash. Hand wash for a great price — both in and out. Will definitely be back. Good enough for my car and I'm picky!"
+
+- name: "Carlos V."
+  stars: 5
+  text: "They were quick, responsive, and helped me right away. These guys did a great job and provided exactly the service I requested for an excellent rate."
+
+- name: "Sandra K."
+  stars: 5
+  text: "One of the best car wash services in the Broward County area. Professional staff, attention to detail, and a clean you can actually feel."
