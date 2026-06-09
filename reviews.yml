@@ -4,22 +4,158 @@
 #  fill in name / stars (1-5) / text.
 # ─────────────────────────────────────────────
 
-- name: "Maria T."
+- name: "Dea"
   stars: 5
-  text: "Such a great establishment for a thorough and quick car wash! Ricardo is the manager and he was very kind — listened to my needs and gave tips without any pressure. My car came out beautifully. You can tell the whole team pays attention to detail. Pricing is very fair and affordable."
+  text: "Great hand car wash! The service has been excellent every time. They really take their time detailing your car, and it shows in the results. It may take about 40 minutes to an hour depending on the service, but your car will come out looking brand new. Definitely recommend!"
 
-- name: "James R."
+- name: "Lulu Faria"
   stars: 5
-  text: "No doubt they're great with the exterior, but I was really surprised with the interior cleaning too. And for a very good price. Highly recommend."
+  text: "I wish I had taken a before picture to show the miracle work these guys did. Car looks and smells brand freaking new. Great pricing and amazing work. Highly recommend them."
 
-- name: "Denise M."
+- name: "Elizabeth Anne"
   stars: 5
-  text: "Great place for a wash. Hand wash for a great price — both in and out. Will definitely be back. Good enough for my car and I'm picky!"
+  text: "Absolutely Worth It – Incredible Hand Car Wash! I did the exterior-only wash and it was the best $20 I've spent! This place is hands-on and detail-oriented."
 
-- name: "Carlos V."
+- name: "Michele Fontanez"
   stars: 5
-  text: "They were quick, responsive, and helped me right away. These guys did a great job and provided exactly the service I requested for an excellent rate."
+  text: "This has been the best experience I have had. They take their time and put their heart and soul into making sure everything was cleaned. Not only did they clean my car exceptionally well, they also took the time to explain what was done and how to maintain the beauty of my car. I finally found a car wash for life."
 
-- name: "Sandra K."
+- name: "Matthew Bodfield"
   stars: 5
-  text: "One of the best car wash services in the Broward County area. Professional staff, attention to detail, and a clean you can actually feel."
+  text: "One of the best car washes in the area. Great customer service. 10/10 recommend to anyone looking for a quality wash for their vehicle."
+
+- name: "Phillip V Adamson"
+  stars: 5
+  text: "I brought my Toyota Camry to Mr. Detail Hand Car Wash & Detail Center, and they did an outstanding job. The paint is shining beautifully, and the interior looks spotless. The team was professional and very detail-oriented. Highly recommend."
+
+- name: "Jasmine Balkaran"
+  stars: 5
+  text: "My family and I recently moved into the area and we were looking for a great spot that offered handwashing and you guys did great! Between the kids and the dogs the car looks immaculate! Much appreciated."
+
+- name: "Cherline Riche"
+  stars: 5
+  text: "I was used to going to another hand car wash but this one was a bit closer to my house. They took their time cleaning the inside and outside and it looked great. I will be going to them now."
+
+- name: "Kim Vixama"
+  stars: 5
+  text: "I had a great experience at this car wash. The staff was friendly, the service was quick, and my car came out spotless. They paid attention to detail and exceeded my expectations. I'll definitely be coming back and recommending them to others."
+
+- name: "Jessica B"
+  stars: 5
+  text: "The work was impeccable and faster than expected. I shed like a HUSKY and they managed to get it out of all the cracks and crevices. I don't remember the last time I saw the texture of my trunk! Great attention to detail, and value for the money."
+
+- name: "Setareh Sharafi"
+  stars: 5
+  text: "Wesley pays so much attention to detail and he does a great job! I recommended this place to all my friends and family, really great prices too!"
+
+- name: "Dani Blood"
+  stars: 5
+  text: "Best Detail Ever! Located right behind the Shell Station. Didn't miss a thing and the car looks like it came right out of the factory. It might take some time but the work speaks for itself. Will highly recommend to everyone I know."
+
+- name: "Krystal-Lee Arnold"
+  stars: 5
+  text: "Great car wash — came here 6 times, always a great job."
+
+- name: "Darshak Shah"
+  stars: 5
+  text: "Amazing car wash, they do hand car wash and at a very reasonable price."
+
+- name: "L. Watson"
+  stars: 5
+  text: "Service has never failed! Always has my vehicle looking good."
+
+- name: "Rashad Macon"
+  stars: 5
+  text: "Just left with my car. They did an amazing job making my car look brand new. The guys there are great. Made sure I was taken care of. Will be coming back very soon."
+
+- name: "J GRIND"
+  stars: 5
+  text: "Super courteous, very engaging and they did a GREAT job for a good price! A group of positive young men doing great things here and I will be back."
+
+- name: "Shawn Brown"
+  stars: 5
+  text: "I will not go to another car wash! This is my place. Prices are affordable. My car looks showroom clean."
+
+- name: "Gabriela D'Almeida"
+  stars: 5
+  text: "Had a great experience! The owner and the team are very nice and welcoming. Shout out to the manager who was really attentive and helpful — he managed to get all the dog hair off the seat! Will be returning."
+
+- name: "Ashlynn Watkins"
+  stars: 5
+  text: "Best car wash I have ever gotten. The two guys spent their time and made sure to detail everything. Very impressed."
+
+- name: "kamal nannapaneni"
+  stars: 5
+  text: "Sooooo Good, wonderful people, excellent wash!"
+
+- name: "KRYSTAL CONLEY"
+  stars: 5
+  text: "Very nice gentlemen at this car wash. I came pretty late in the dark and they still serviced me. Car looked and smelled like it was still new. Thanks guys, I appreciate it!"
+
+- name: "2REAL4 TV"
+  stars: 5
+  text: "Great service, fast and efficient. Would recommend coming here for a good wash inside and out — prices unbeatable."
+
+- name: "Driana Merzius"
+  stars: 5
+  text: "They do a good job on my car. I will definitely come back."
+
+- name: "Raj Balkaran"
+  stars: 5
+  text: "Fellas did an amazing job! I will definitely continue to use their services in the future. Highly recommend."
+
+- name: "Reine Alex"
+  stars: 5
+  text: "Great service, super clean results, and friendly staff. My car has never looked better. Highly recommend!"
+
+- name: "Daniela Goncalves"
+  stars: 5
+  text: "Great service, great people. Will come back for sure. My car is spotless!!!!"
+
+- name: "Brianiel Prehay"
+  stars: 5
+  text: "Really impressed with this car wash. They did a great job, paid attention to detail, and my car looks amazing. I'll be back!"
+
+- name: "Antoine Maxima"
+  stars: 5
+  text: "Great place and great price. The crew did a great job, would highly recommend."
+
+- name: "Aaliyah"
+  stars: 5
+  text: "Amazing, fast service. Very detail with their work. Highly recommend."
+
+- name: "Shaunte Spauldings"
+  stars: 5
+  text: "Always reliable service. In and out in no time. Very detailed."
+
+- name: "Geoffrey Lawrence"
+  stars: 5
+  text: "Excellent price, great quality, amazing work."
+
+- name: "Kerry lee"
+  stars: 5
+  text: "Best car wash in Fort Lauderdale. I love John John!"
+
+- name: "Donna Smith"
+  stars: 5
+  text: "My car was sparkling clean. Customer service was excellent."
+
+- name: "Kaleah Johnson"
+  stars: 5
+  text: "Best car wash/detailing in TOWN!!!"
+
+- name: "TIE STRAP"
+  stars: 5
+  text: "Best services. Best interior and exterior detail. Best car wash hands down. Full hand wash, no regrets."
+
+- name: ""
+  stars: 5
+  text: ""
+
+- name: ""
+  stars: 5
+  text: ""
+
+- name: ""
+  stars: 5
+  text: ""
